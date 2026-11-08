@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --color-pickle-50: #f6fee7;
+  --color-pickle-100: #ecfccb;
+  --color-pickle-200: #d9f99d;
+  --color-pickle-300: #bef264;
+  --color-pickle-400: #a3e635;
+  --color-pickle-500: #84cc16;
+  --color-pickle-600: #65a30d;
+  --color-pickle-700: #4d7c0f;
+  --color-pickle-800: #3f6212;
+  --color-pickle-900: #365314;
+
+  --color-court-blue: #0284c7;
+  --color-court-green: #059669;
+}
